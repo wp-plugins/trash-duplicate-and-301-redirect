@@ -1,0 +1,120 @@
+/*
+Created By      : Bhavesh
+Created Date    : 18/06/2015
+Last Modified By: Bhavesh
+Last Modified Date : 22/06/2015
+*/
+.trash-duplicates-inner{
+    background: #fff;
+    padding: 10px;
+    overflow: hidden;
+}
+.trash-duplicates-result,.trash-duplicates-top-field fieldset,.col-comments{
+    float: left;
+}
+.trash-duplicates-search,.nav-paging-display{
+    float: right;
+}
+.widefat td, .widefat th{
+    padding: 8px 15px;
+}
+.sol-action-options{
+    clear: both;
+}
+.button-action{
+    background: #f7f7f7;
+    border-color: #cccccc;
+    box-shadow: 0 1px 0 #ffffff inset, 0 1px 0 rgba(0, 0, 0, 0.08);
+    color: #555555;
+    vertical-align: top;
+    cursor: pointer;
+}
+.trash-inner-table .wp-list-table th:first-child{
+    width: 10px;
+}
+.trash-inner-table table th:first-child{
+    padding-left: 0;
+}
+.chk_remove_all{
+    margin: 0 !important;
+}
+fieldset.field-third,fieldset.field-two{
+    padding-left: 85px;
+    padding-top: 2px;
+}
+.sol-trash-duplicates-form select{
+    text-transform: capitalize;
+}
+.trash-inner-table .row-actions a{
+    text-decoration: none;
+    font-weight: 600;
+}
+.page_link a{
+    background: #e7e7e7;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0 10px 3px;
+    color: #606060;
+}
+.trash-inner-bottom{
+    margin-top: 10px;
+}
+strong.post-title{
+    color: #0073aa;
+}
+.trash-duplicates-result span{
+    font-weight: 600;
+    color: #906400;
+}
+.trash-board-header h2 img{
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.trash_group tr td span{
+    word-wrap: initial;
+}
+.widefat *{
+    word-wrap: initial;
+}
+tr[class^="trash_ind_group_"]{
+    display: none;
+}
+.trash_post_expand{
+    cursor: pointer;
+}
+.trash_post_expand img{
+    width: 15px;
+    height: 10px;
+}
+th .trash_post_expand {
+    left: 10px;
+    position: relative;
+    top: 2px;
+}
+#frm_301_redirect .widefat a{
+    text-decoration: underline;
+}
+#frm_301_redirect .widefat a:hover{
+    text-decoration: none;
+}
+.trash-duplicates-top-field{
+    background: #fafafa;
+    border: 1px solid #cccccc;
+    float: left;
+    margin: 5px auto;
+    padding: 5px;
+    width: auto;
+}
+.field-two label,.trash-duplicate1{
+    margin-left: 5px;
+}
+.trash-duplicates-result h2{
+    color: #fff;
+    background: #5c4977;
+    padding: 7px;
+    border-radius: 5px;
+}
+.trash-duplicates-result h2 span{
+    color: #fff;
+    font-weight: 600;
+}
