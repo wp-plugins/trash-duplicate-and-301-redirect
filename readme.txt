@@ -5,14 +5,14 @@ Requires at least: 2.8.0
 Tested up to: 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 1.0.0
+
 
 Find and delete duplicates posts, pages, custom post and 301 redirect to the new or old URL.
 
 == Description ==
 Do your site have more content editor / authors who upload contents? Do you site content managed by team of multiple person ? Do you run a site with user submitted content? 
 Finally ended up with duplicate content on your website or blog ? Duplicate content divide traffic and may be penalized by google for SEO ranking.
-So, You must remove duplicate content (post , pages etc) and also you have to take care of removed content URL to redirect to main url.
+So, You must remove duplicate content (post , pages etc) and also you have to take care of removed content URL to redirect to main URL.
 
 Now, with help of this amazing plugin called "Trash Duplicate and 301 Redirect" you can find and remove duplicate content. Also permanently redirect removed content URL to main URL to divert traffic to one URL and be safe from being penalized by google for duplicate content.
 
